@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Define a style for the splash screen -->
+    <style name="SplashTheme" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Set the background of the window to a transparent drawable -->
+        <item name="android:windowBackground">@drawable/splash_screen</item>
+
+        <!-- Define the animation style for the window transition -->
+        <item name="android:windowAnimationStyle">@style/SplashAnimation</item>
+    </style>
+
+    <!-- Define a custom animation style for the splash screen transition -->
+    <style name="SplashAnimation">
+        <item name="android:windowEnterAnimation">@android:anim/fade_in</item>
+        <item name="android:windowExitAnimation">@android:anim/fade_out</item>
+    </style>
+</resources>

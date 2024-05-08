@@ -1,0 +1,12 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Web icon -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M21,19V17H3v2h18zM12,2C6.48,2 2,6.48 2,12s4.48,10 10,10s10,-4.48 10,-10S17.52,2 12,2zM6.5,13.5h-1v-1h1V13.5zM7.5,11.5h-1v1h1V11.5zM6.5,15.5h-1v1h1V15.5zM9.5,13.5h-1v1h1V13.5zM8.5,11.5h-1v1h1V11.5zM8.5,15.5h-1v1h1V15.5zM11.5,13.5h-1v1h1V13.5zM10.5,11.5h-1v1h1V11.5zM10.5,15.5h-1v1h1V15.5zM13.5,13.5h-1v1h1V13.5zM12.5,11.5h-1v1h1V11.5zM12.5,15.5h-1v1h1V15.5zM15.5,13.5h-1v1h1V13.5zM14.5,11.5h-1v1h1V11.5zM14.5,15.5h-1v1h1V15.5zM17.5,13.5h-1v1h1V13.5zM16.5,11.5h-1v1h1V11.5zM16.5,15.5h-1v1h1V15.5z"/>
+
+</vector>

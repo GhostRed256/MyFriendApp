@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings">settings\n</string>
+    <string name="set_api">Api\n</string>
+    <string name="testing_purpose">For testing purpose\n</string>
+    <string name="api_setup_link">Set up API\n</string>
+    <string name="about">About\n</string>
+    <string name="opensource">Open-source\n</string>
+    <string name="person">Ritesh</string>
+    <string name="app_name">My Friend\n</string>
+</resources>
