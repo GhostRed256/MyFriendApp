@@ -1,0 +1,6 @@
+![transparent_2024-05-08T05-26-04](https://github.com/GhostRed256/MyFriendApp/assets/124334716/c73e5127-86ef-456b-98fe-450a2988cc23)
+![WhatsApp Image 2024-05-08 at 12 41 53 PM(1)](https://github.com/GhostRed256/MyFriendApp/assets/124334716/99c9ddd4-81f9-4161-ae82-0a4f2d0d3889)
+![WhatsApp Image 2024-05-08 at 12 41 54 PM(3)](https://github.com/GhostRed256/MyFriendApp/assets/124334716/9369bb88-6e4b-4543-bdcf-588941962908)
+![WhatsApp Image 2024-05-08 at 12 41 54 PM(4)](https://github.com/GhostRed256/MyFriendApp/assets/124334716/fff55e12-8243-4507-be6d-44f48227d024)
+![WhatsApp Image 2024-05-08 at 12 41 54 PM(5)](https://github.com/GhostRed256/MyFriendApp/assets/124334716/e2a5109a-8cb6-4e7c-93e8-0dc9d12cd63c)
+![WhatsApp Image 2024-05-08 at 12 41 55 PM](https://github.com/GhostRed256/MyFriendApp/assets/124334716/db594b32-e40f-450e-8bad-8da72260cf80)
